@@ -212,7 +212,7 @@ DARE_PARSE($!, '%Y-%m-%d')相当于clickhouse的toDate($1)
 
 ## ClickHouse连接器的限制
 
-###语法
+### 语法
 
 暂不支持CREATE TABLE操作。
 
