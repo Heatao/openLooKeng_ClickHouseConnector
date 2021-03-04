@@ -1,0 +1,3 @@
+# openLooKeng_ClickHouseConnector
+
+openLooKeng的ClickHouse插件。
